@@ -20,7 +20,7 @@ python GestureControl.py
 - **Left Hand**: Hold palm open for 2 seconds to lock/unlock volume control
 - Press 'q' to exit 
 
-## How It Works (Technical)
+## How It Works 
 
 - **Hand Detection**: Uses MediaPipe Hands model to detect and track 21 3D landmarks on each hand at 30fps
 - **Gesture Recognition**: 
